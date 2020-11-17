@@ -1,0 +1,26 @@
+{
+  "name": "typesafeconfig",
+  "version": "0.1.0",
+  "description": "TypeScript base configuration (tsconfig.json) to extend from with emphasis on type safety.",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shian15810/TypeSafeConfig.git"
+  },
+  "keywords": [
+    "type",
+    "safe",
+    "config",
+    "typescript",
+    "base",
+    "configuration",
+    "tsconfig",
+    "extends"
+  ],
+  "author": "Chuah Chee Shian <shian15810@gmail.com> (https://github.com/shian15810)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shian15810/TypeSafeConfig/issues"
+  },
+  "homepage": "https://github.com/shian15810/TypeSafeConfig#readme"
+}
