@@ -14,7 +14,7 @@ In your `tsconfig.json`:
 
 ```jsonc
 {
-  "extends": "typesafeconfig",
+  "extends": "typesafeconfig/tsconfig.json",
   "compilerOptions": {
     "incremental": true,
     "outDir": "dist"
