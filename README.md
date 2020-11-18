@@ -1,10 +1,10 @@
 # TypeSafeConfig
 
-TypeScript base configuration (tsconfig.json) to extend from with emphasis on type safety.
+TypeScript base configuration (tsconfig.json) to extend from with emphasis on **type safety**.
 
 ## Installation
 
-```sh
+```shell
 npm install --save-dev typesafeconfig
 ```
 
@@ -24,4 +24,4 @@ In your `tsconfig.json`:
 
 ## Minimum TypeScript Version
 
-Since `noUncheckedIndexedAccess` is being enabled, you should have at least TypeScript 4.1 installed.
+Since `noUncheckedIndexedAccess` is being enabled, you should have at least **TypeScript 4.1** installed.
