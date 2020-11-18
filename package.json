@@ -1,6 +1,6 @@
 {
   "name": "typesafeconfig",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "TypeScript base configuration (tsconfig.json) to extend from with emphasis on type safety.",
   "scripts": {},
   "repository": {
