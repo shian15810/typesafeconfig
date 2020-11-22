@@ -1,8 +1,12 @@
 {
+  "type": "module",
   "name": "typesafeconfig",
   "version": "1.2.0",
   "description": "TypeScript base configuration (tsconfig.json) to extend from with emphasis on type safety.",
-  "scripts": {},
+  "main": "tsconfig.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shian15810/TypeSafeConfig.git"
@@ -22,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/shian15810/TypeSafeConfig/issues"
   },
-  "homepage": "https://github.com/shian15810/TypeSafeConfig#readme"
+  "homepage": "https://github.com/shian15810/TypeSafeConfig#readme",
+  "peerDependencies": {
+    "typescript": ">=4.1.2"
+  }
 }
