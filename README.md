@@ -1,6 +1,6 @@
 # TypeSafeConfig
 
-TypeScript base configuration (tsconfig.json) to extend from with emphasis on **type safety**.
+TypeScript base configuration (tsconfig) to extend from with emphasis on **type safety**.
 
 ## Installation
 
@@ -14,7 +14,7 @@ In your `tsconfig.json`:
 
 ```jsonc
 {
-  "extends": "typesafeconfig/tsconfig.json",
+  "extends": "typesafeconfig",
   "compilerOptions": {
     "incremental": true,
     "outDir": "dist"

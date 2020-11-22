@@ -2,7 +2,7 @@
   "type": "module",
   "name": "typesafeconfig",
   "version": "1.2.0",
-  "description": "TypeScript base configuration (tsconfig.json) to extend from with emphasis on type safety.",
+  "description": "TypeScript base configuration (tsconfig) to extend from with emphasis on type safety.",
   "main": "tsconfig.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
