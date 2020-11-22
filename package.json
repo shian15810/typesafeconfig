@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shian15810/TypeSafeConfig.git"
+    "url": "git+https://github.com/shian15810/typesafeconfig.git"
   },
   "keywords": [
     "type",
@@ -24,10 +24,10 @@
   "author": "Chuah Chee Shian <shian15810@gmail.com> (https://github.com/shian15810)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shian15810/TypeSafeConfig/issues"
+    "url": "https://github.com/shian15810/typesafeconfig/issues"
   },
-  "homepage": "https://github.com/shian15810/TypeSafeConfig#readme",
+  "homepage": "https://github.com/shian15810/typesafeconfig#readme",
   "peerDependencies": {
-    "typescript": ">=4.1.2"
+    "typescript": ">=4.1"
   }
 }

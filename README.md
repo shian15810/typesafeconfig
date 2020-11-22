@@ -1,4 +1,4 @@
-# TypeSafeConfig
+# typesafeconfig
 
 TypeScript base configuration (tsconfig) to extend from with emphasis on **type safety**.
 
@@ -15,13 +15,10 @@ In your `tsconfig.json`:
 ```jsonc
 {
   "extends": "typesafeconfig",
-  "compilerOptions": {
-    "incremental": true,
-    "outDir": "dist"
-  }
 }
 ```
 
-## Minimum TypeScript Version
+## See Also
 
-Since `noUncheckedIndexedAccess` is being enabled, you should have at least **TypeScript 4.1** installed.
+- [`eslint-config-typesafeconfig`](https://github.com/shian15810/eslint-config-typesafeconfig)
+- [`prettier-config-typesafeconfig`](https://github.com/shian15810/prettier-config-typesafeconfig)
