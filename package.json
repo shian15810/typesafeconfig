@@ -27,6 +27,9 @@
     "url": "https://github.com/shian15810/typesafeconfig/issues"
   },
   "homepage": "https://github.com/shian15810/typesafeconfig#readme",
+  "devDependencies": {
+    "prettier-config-typesafeconfig": "^0.1.0"
+  },
   "peerDependencies": {
     "typescript": ">=4.1"
   }
