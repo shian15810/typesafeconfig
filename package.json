@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "typesafeconfig",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "TypeScript base configuration (tsconfig) to extend from with emphasis on type safety.",
   "main": "tsconfig.json",
   "scripts": {
