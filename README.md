@@ -1,6 +1,6 @@
 # typesafeconfig
 
-TypeScript base configuration (tsconfig) to extend from with emphasis on **type safety**.
+TypeScript base configuration (tsconfig) to extend from with emphasis on type safety.
 
 ## Installation
 
