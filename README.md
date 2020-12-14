@@ -14,11 +14,10 @@ In your `tsconfig.json`:
 
 ```jsonc
 {
-  "extends": "typesafeconfig",
+  "extends": "typesafeconfig"
 }
 ```
 
 ## See Also
 
-- [`eslint-config-typesafeconfig`](https://github.com/shian15810/eslint-config-typesafeconfig)
-- [`prettier-config-typesafeconfig`](https://github.com/shian15810/prettier-config-typesafeconfig)
+- [`type-expand`](https://github.com/shian15810/type-expand)
