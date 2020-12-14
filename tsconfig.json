@@ -1,8 +1,6 @@
 {
   "compilerOptions": {
     /* Basic Options */
-    // "allowJs": true,
-    "checkJs": true,
     "isolatedModules": true,
     "module": "esnext",
     "target": "esnext",
@@ -32,6 +30,6 @@
     /* Advanced Options */
     "forceConsistentCasingInFileNames": true,
     "importsNotUsedAsValues": "error",
-    // "skipLibCheck": false,
+    "skipLibCheck": false
   }
 }
