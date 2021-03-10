@@ -1,31 +1,15 @@
 {
+  "extends": "./tsconfig.strict.json",
   "compilerOptions": {
     /* Basic Options */
     "isolatedModules": true,
     "module": "esnext",
     "target": "esnext",
 
-    /* Strict Type-Checking Options */
-    // "alwaysStrict": true,
-    // "noImplicitAny": true,
-    // "noImplicitThis": true,
-    "strict": true,
-    // "strictBindCallApply": true,
-    // "strictFunctionTypes": true,
-    // "strictNullChecks": true,
-    // "strictPropertyInitialization": true,
-
     /* Module Resolution Options */
     // "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "moduleResolution": "node",
-
-    /* Additional Checks */
-    "noFallthroughCasesInSwitch": true,
-    "noImplicitReturns": true,
-    "noUncheckedIndexedAccess": true,
-    "noUnusedLocals": true,
-    "noUnusedParameters": true,
 
     /* Advanced Options */
     "forceConsistentCasingInFileNames": true,

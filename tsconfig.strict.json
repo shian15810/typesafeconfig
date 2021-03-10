@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    /* Strict Type-Checking Options */
+    // "alwaysStrict": true,
+    // "noImplicitAny": true,
+    // "noImplicitThis": true,
+    "strict": true,
+    // "strictBindCallApply": true,
+    // "strictFunctionTypes": true,
+    // "strictNullChecks": true,
+    // "strictPropertyInitialization": true,
+
+    /* Additional Checks */
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noUncheckedIndexedAccess": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true
+  }
+}
