@@ -1,6 +1,6 @@
 {
   "name": "typesafeconfig",
-  "version": "4.2.0",
+  "version": "4.3.0",
   "description": "TypeScript base configuration (tsconfig) to extend from with emphasis on type safety.",
   "main": "tsconfig.json",
   "scripts": {
